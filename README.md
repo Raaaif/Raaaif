@@ -24,5 +24,5 @@
 </div>
  
   <div>                                                                                                                                                 
-  (https://github-readme-stats.vercel.app/api/top-langs/?Raaaif=Raaaif&layout=compact)](https://github.com/Raaaif/github-readme-stats)
+  https://github-readme-stats.vercel.app/api/top-langs/?Raaaif=Raaaif&layout=compact)](https://github.com/Raaaif/github-readme-stats
   </div>
