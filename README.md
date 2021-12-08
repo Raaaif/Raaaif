@@ -5,7 +5,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Raaaif&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaaif&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://user-images.githubusercontent.com/94876180/145221853-2dea1790-8aeb-4d61-aded-bb5f4a77d725.gif">
+  <img align="center" width="148" height="160" src="https://user-images.githubusercontent.com/94876180/145221853-2dea1790-8aeb-4d61-aded-bb5f4a77d725.gif">
 </div>
  <br>
 <div  align="center"> 
