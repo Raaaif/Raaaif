@@ -1,30 +1,59 @@
-<h1 align="center">👋 Olá, eu sou o  R4AIF</h1>
-
-<h3 align="center">
-Analista de Sistemas PL • Full Stack Developer • API Integration
-</h3>
-
-<p align="center">
-Desenvolvedor apaixonado por tecnologia, automação de processos e integrações entre sistemas.
-<br>
-Atualmente atuo com Marketplaces, ERPs, APIs REST, bancos de dados e desenvolvimento de soluções para e-commerce.
-</p>
-
----
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raaaif&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+# 🎮 R4AIF
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaaif&layout=compact&theme=midnight-purple&hide_border=true"/>
+### `Analista de Sistemas PL` • `Full Stack Developer` • `API Integration`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es;APIs+REST+%7C+SQL+%7C+Integra%C3%A7%C3%B5es;Python+%7C+C%23+%7C+JavaScript+%7C+PHP;Marketplaces+%7C+ERPs+%7C+Automa%C3%A7%C3%A3o;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
 </div>
 
 ---
 
+## 👾 Sobre mim
+
+```yaml
+name: Raif
+role: Analista de Sistemas PL
+focus:
+  - Integração de Sistemas
+  - APIs REST
+  - Marketplaces
+  - ERP
+  - Automação
+  - Banco de Dados
+education:
+  - Análise e Desenvolvimento de Sistemas
+  - Desenvolvedor Full Stack
+currently_learning:
+  - Arquitetura de Software
+  - Python
+  - C#
+```
+
+Atualmente trabalho com integração entre Marketplaces, ERPs e APIs, desenvolvimento de automações, sustentação de sistemas, análise de logs e bancos de dados.
+
+Meu objetivo é criar soluções robustas, simples e escaláveis.
+
+---
+
+## 📊 Estatísticas
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Raaaif&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Raaaif&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raaaif&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Raaaif&theme=tokyonight&hide_border=true&background=00000000&ring=A855F7&fire=F97316&currStreakLabel=A855F7"/>
 
 </div>
 
@@ -34,54 +63,29 @@ Atualmente atuo com Marketplaces, ERPs, APIs REST, bancos de dados e desenvolvim
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,javascript,php,java,mysql,mongodb,redis,docker,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,cs,java,javascript,php,mysql,mongodb,redis,docker,git,github,vscode,postman"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![API REST](https://img.shields.io/badge/API_REST-111827?style=for-the-badge&logo=fastapi&logoColor=A855F7)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=databricks&logoColor=A855F7)
+![Integrações](https://img.shields.io/badge/INTEGRAÇÕES-111827?style=for-the-badge&logo=zapier&logoColor=A855F7)
+![Marketplaces](https://img.shields.io/badge/MARKETPLACES-111827?style=for-the-badge&logo=shopify&logoColor=A855F7)
+![Automação](https://img.shields.io/badge/AUTOMAÇÃO-111827?style=for-the-badge&logo=githubactions&logoColor=A855F7)
 
 </div>
 
 ---
 
-## 💼 Atualmente trabalho com
-
-✅ APIs REST
-
-✅ Integrações entre Marketplaces
-
-✅ ERP
-
-✅ MongoDB
-
-✅ MySQL
-
-✅ Redis
-
-✅ Python
-
-✅ C#
-
-✅ PHP
-
-✅ SQL
-
-✅ Automações
-
-
----
-
-## 📊 Atividade
+## 📈 Atividade
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raaaif&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raaaif&theme=discord&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raaaif&bg_color=0d1117&color=c9d1d9&line=a855f7&point=f97316&area=true&hide_border=true"/>
 
 </div>
 
@@ -92,10 +96,25 @@ Atualmente atuo com Marketplaces, ERPs, APIs REST, bancos de dados e desenvolvim
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg">
-<img alt="Snake animation" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+</div>
+
+---
+
+## 🎮 Player Status
+
+<div align="center">
+
+| Classe | Especialidade | Status |
+|:------:|:-------------:|:------:|
+| 🧙 Analista | APIs e Integrações | 🟢 Online |
+| ⚙️ Desenvolvedor | Python • C# • PHP | 🟢 Building |
+| 🗄️ Data Explorer | SQL • MongoDB • Redis | 🟢 Connected |
+| 🎮 Gamer | Counter-Strike | 🟢 Ready |
 
 </div>
 
@@ -106,16 +125,24 @@ Atualmente atuo com Marketplaces, ERPs, APIs REST, bancos de dados e desenvolvim
 <div align="center">
 
 <a href="mailto:raifsousa96@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raaaif">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://www.instagram.com/sousaraaif">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Raaaif&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS)
 
 </div>
 
@@ -123,14 +150,22 @@ Atualmente atuo com Marketplaces, ERPs, APIs REST, bancos de dados e desenvolvim
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Raaaif&style=for-the-badge&color=blueviolet)
+## ⚡ SYSTEM STATUS
+
+```text
+█████████████████████████████████████████████
+
+STATUS............. ONLINE
+
+ROLE............... Analista de Sistemas PL
+
+FOCUS.............. APIs • Integrações • SQL
+
+CURRENT MISSION.... Building Better Solutions
+
+█████████████████████████████████████████████
+```
+
+> **"Transformando problemas em soluções através da tecnologia."**
 
 </div>
-
----
-
-<h3 align="center">
-
-"Transformando problemas em soluções através da tecnologia."
-
-</h3>
