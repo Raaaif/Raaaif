@@ -1,43 +1,126 @@
-<h1 align="center">👋 Olá, eu sou o R4AIF </h1>
+<h1 align="center">👋 Olá, eu sou o  R4AIF</h1>
 
 <h3 align="center">
-Analista de Sistemas PL • Desenvolvedor Full Stack • Apaixonado por Tecnologia
+Analista de Sistemas PL • Full Stack Developer • API Integration
 </h3>
 
 <p align="center">
-Atualmente trabalho com integrações entre marketplaces, ERPs e APIs, desenvolvendo soluções para automação de processos, análise de dados e sustentação de sistemas.
+Desenvolvedor apaixonado por tecnologia, automação de processos e integrações entre sistemas.
+<br>
+Atualmente atuo com Marketplaces, ERPs, APIs REST, bancos de dados e desenvolvimento de soluções para e-commerce.
 </p>
 
+---
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Raaaif&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raaaif&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaaif&layout=compact&langs_count=8&theme=midnight-purple"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaaif&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🚀 Tecnologias
-
 <div align="center">
 
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raaaif&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 📫 Contato
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,javascript,php,java,mysql,mongodb,redis,docker,git,github,vscode,postman"/>
+
+</div>
+
+---
+
+## 💼 Atualmente trabalho com
+
+✅ APIs REST
+
+✅ Integrações entre Marketplaces
+
+✅ ERP
+
+✅ MongoDB
+
+✅ MySQL
+
+✅ Redis
+
+✅ Python
+
+✅ C#
+
+✅ PHP
+
+✅ SQL
+
+✅ Automações
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🎬 ClipFlow
+
+Aplicação Desktop desenvolvida em Python para download de vídeos, interface moderna, FFmpeg e yt-dlp.
+
+---
+
+### 🛡️ PNET Guard
+
+Scanner para campeonatos de Counter-Strike, desenvolvido em C#, preparado para futuras integrações com banco de dados.
+
+---
+
+### 🏆 Campeonato PNET
+
+Sistema web para gerenciamento de campeonatos de Counter-Strike.
+
+---
+
+## 📊 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raaaif&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Raaaif&theme=discord&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg">
+<img alt="Snake animation" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📫 Contato
 
 <div align="center">
 
@@ -53,35 +136,20 @@ Atualmente trabalho com integrações entre marketplaces, ERPs e APIs, desenvolv
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
----
-
-### 🐍 Minhas contribuições
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animação da cobrinha comendo as contribuições"
-      src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-
-</div>
-
 </div>
 
 ---
 
 <div align="center">
 
-![Snake animation](https://github.com/Raaaif/Raaaif/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?username=Raaaif&style=for-the-badge&color=blueviolet)
 
 </div>
+
+---
+
+<h3 align="center">
+
+"Transformando problemas em soluções através da tecnologia."
+
+</h3>
