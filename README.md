@@ -64,25 +64,6 @@ Atualmente atuo com Marketplaces, ERPs, APIs REST, bancos de dados e desenvolvim
 
 ✅ Automações
 
----
-
-## 🚀 Projetos em Destaque
-
-### 🎬 ClipFlow
-
-Aplicação Desktop desenvolvida em Python para download de vídeos, interface moderna, FFmpeg e yt-dlp.
-
----
-
-### 🛡️ PNET Guard
-
-Scanner para campeonatos de Counter-Strike, desenvolvido em C#, preparado para futuras integrações com banco de dados.
-
----
-
-### 🏆 Campeonato PNET
-
-Sistema web para gerenciamento de campeonatos de Counter-Strike.
 
 ---
 
