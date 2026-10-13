@@ -1,11 +1,9 @@
-name: Generate Snake Animation
+name: Generate Profile Visuals
 
 on:
   schedule:
     - cron: "*/15 * * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -22,13 +20,19 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Fetch exact GitHub contribution calendar
+      - name: Fetch GitHub profile data
         env:
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         run: |
           gh api graphql \
             -f query='query($login:String!) {
               user(login:$login) {
+                login
+                name
+                createdAt
+                followers { totalCount }
+                following { totalCount }
+                repositories(ownerAffiliations: OWNER, privacy: PUBLIC) { totalCount }
                 contributionsCollection {
                   restrictedContributionsCount
                   contributionCalendar {
@@ -48,10 +52,10 @@ jobs:
             -F login='${{ github.repository_owner }}' \
             > contributions.json
 
-      - name: Render custom contribution snake
+      - name: Render profile visuals
         run: python scripts/render_contribution_grid.py
 
-      - name: Show contribution total used by the snake
+      - name: Show contribution summary
         run: cat dist/contribution-summary.json
 
       - name: Publish SVG files
