@@ -20,13 +20,13 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Fetch GitHub profile data
+      - name: Fetch GitHub profile data as token owner
         env:
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         run: |
           gh api graphql \
-            -f query='query($login:String!) {
-              user(login:$login) {
+            -f query='query {
+              viewer {
                 login
                 name
                 createdAt
@@ -49,7 +49,7 @@ jobs:
                 }
               }
             }' \
-            -F login='${{ github.repository_owner }}' \
+            | sed 's/"viewer"/"user"/' \
             > contributions.json
 
       - name: Render profile visuals
