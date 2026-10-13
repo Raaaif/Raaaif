@@ -1,11 +1,15 @@
 name: Generate Snake Animation
 
 on:
+  # Atualiza automaticamente a cada 15 minutos para refletir
+  # contribuições feitas em outros repositórios o mais rápido possível.
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/15 * * * *"
 
+  # Permite atualizar manualmente pela aba Actions.
   workflow_dispatch:
 
+  # Atualiza imediatamente quando houver commit no próprio perfil.
   push:
     branches:
       - main
@@ -23,6 +27,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Se PROFILE_TOKEN existir, ele permite que a action enxergue
+          # também contribuições privadas. Sem ele, usa o token padrão.
+          github_token: ${{ secrets.PROFILE_TOKEN != '' && secrets.PROFILE_TOKEN || github.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a855f7&color_dots=#161b22,#3b0764,#6b21a8,#a855f7,#f97316
