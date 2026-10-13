@@ -42,9 +42,9 @@ Meu objetivo é criar soluções robustas, simples e escaláveis.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats.svg?v=2">
-  <img alt="Estatísticas do perfil" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats-dark.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats.svg?v=3">
+  <img alt="Estatísticas do perfil" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats-dark.svg?v=3">
 </picture>
 
 </div>
@@ -88,9 +88,9 @@ Meu objetivo é criar soluções robustas, simples e escaláveis.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity.svg?v=2">
-  <img alt="Atividade recente" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity-dark.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity.svg?v=3">
+  <img alt="Atividade recente" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity-dark.svg?v=3">
 </picture>
 
 </div>
@@ -102,9 +102,9 @@ Meu objetivo é criar soluções robustas, simples e escaláveis.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg?v=2">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg?v=3">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg?v=3">
 </picture>
 
 </div>
