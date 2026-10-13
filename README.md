@@ -42,9 +42,9 @@ Meu objetivo é criar soluções robustas, simples e escaláveis.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats-dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats.svg?v=3">
-  <img alt="Estatísticas do perfil" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats-dark.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats.svg?v=6">
+  <img alt="Estatísticas do perfil" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/profile-stats-dark.svg?v=6">
 </picture>
 
 </div>
@@ -56,9 +56,9 @@ Meu objetivo é criar soluções robustas, simples e escaláveis.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/streak-dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/streak.svg?v=5">
-  <img alt="GitHub streak" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/streak-dark.svg?v=5">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/streak-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/streak.svg?v=6">
+  <img alt="GitHub streak" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/streak-dark.svg?v=6">
 </picture>
 
 </div>
@@ -92,9 +92,9 @@ Meu objetivo é criar soluções robustas, simples e escaláveis.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity-dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity.svg?v=5">
-  <img alt="Activity chart" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity-dark.svg?v=5">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity.svg?v=6">
+  <img alt="Activity chart" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/activity-dark.svg?v=6">
 </picture>
 
 </div>
@@ -106,9 +106,9 @@ Meu objetivo é criar soluções robustas, simples e escaláveis.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg?v=5">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg?v=5">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake.svg?v=6">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Raaaif/Raaaif/output/github-contribution-grid-snake-dark.svg?v=6">
 </picture>
 
 </div>
