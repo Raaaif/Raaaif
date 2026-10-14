@@ -52,8 +52,17 @@ jobs:
             | sed 's/"viewer"/"user"/' \
             > contributions.json
 
-      - name: Render profile visuals
+      - name: Render local profile visuals
         run: python scripts/render_contribution_grid.py
+
+      - name: Generate classic snake from private contribution calendar
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PROFILE_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a855f7&color_dots=#161b22,#3b0764,#6b21a8,#a855f7,#f97316
 
       - name: Show contribution summary
         run: cat dist/contribution-summary.json
